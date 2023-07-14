@@ -26,7 +26,7 @@ It will render the default settings for the ```<select>```
 
 Step 4: Pass options
 
-* data: Array of list
+* data: Array of items
 * flags: true/false - shows it or not
 * ext: Extension of the image file
 * placeholder: Title of the select
