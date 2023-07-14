@@ -44,3 +44,14 @@ $('.estados').flagit({
     path: 'assets/img/flags/'
 });
 ```
+## Required
+* jQuery >= 3
+* Bootstrap >= 5
+
+## Credits
+This component uses the following open source frameworks
+* jQuery
+* Bootstrap
+  
+## License
+MIT
