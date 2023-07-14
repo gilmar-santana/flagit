@@ -1,29 +1,87 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1950" height="1300">
-	<desc>Bandeira do Piauí</desc>
-	<defs>
-		<g id="star" transform="scale(200)">
-			<g id="cone">
-				<polygon id="triangle" fill="#ffffff" points="0,0 0,1 .5,1" transform="translate(0,-1) rotate(18)"/>
-				<use xlink:href="#triangle" transform="scale(-1,1)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 504" style="enable-background:new 0 0 720 504;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFD500;}
+	.st1{fill:#56A134;}
+	.st2{fill:#0B1097;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:23.3786px;}
+</style>
+<rect x="0" y="1" class="st0" width="759.8" height="506.5"/>
+<g>
+	<rect id="stripe" x="0" y="1" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000006666363399775416470000016157749053310817468_" x="0" y="78.9" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000137831610179464648590000015143718469873172126_" x="0" y="156.9" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000100381438554081946890000003495075015654114962_" x="0" y="234.8" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000127037456193908837110000010762445512264104365_" x="0" y="312.7" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000173125276185068296830000009788707570131734177_" x="0" y="390.6" class="st1" width="759.8" height="39"/>
+</g>
+<g>
+	<rect id="stripe_00000016797142391608730500000007711386560767553211_" x="0" y="468.6" class="st1" width="759.8" height="39"/>
+</g>
+<rect x="0" y="1" class="st2" width="292.2" height="194.8"/>
+<text transform="matrix(1 0 0 1 18.1128 184.1332)" class="st3 st4 st5">13 DE MARÇO DE 1823</text>
+<g>
+	<g id="star" transform="scale(200)">
+		<g id="cone">
+			<polygon id="triangle" class="st3" points="0.7,0.1 0.6,0.4 0.8,0.5 			"/>
+			<g transform="scale(-1,1)">
+				<polygon id="triangle_00000053542152817706149790000002732171807255948683_" class="st3" points="0.7,0.1 0.9,0.4 0.7,0.5 				
+					"/>
 			</g>
-			<use xlink:href="#cone" transform="rotate(72)"/>
-			<use xlink:href="#cone" transform="rotate(-72)"/>
-			<use xlink:href="#cone" transform="rotate(144)"/>
-			<use xlink:href="#cone" transform="rotate(-144)"/>
 		</g>
-		<rect id="stripe" fill="#56A134" width="100%" height="100"/>
-	</defs>
-	<rect fill="#FFD500" width="100%" height="1300"/>
-	<use xlink:href="#stripe"/>
-	<use xlink:href="#stripe" y="200"/>
-	<use xlink:href="#stripe" y="400"/>
-	<use xlink:href="#stripe" y="600"/>
-	<use xlink:href="#stripe" y="800"/>
-	<use xlink:href="#stripe" y="1000"/>
-	<use xlink:href="#stripe" y="1200"/>
-	<rect width="750" height="500" fill="#0B1097"/>
-	<text  x="375" y="470"  font-family="Arial" font-size="60" text-anchor="middle" style="fill:#FFFFFF;">13 DE MARÇO DE 1823</text>
-	<use xlink:href="#star" x="375" y="225"/>
+		<g transform="rotate(72)">
+			<g id="cone_00000043425672292151604930000003400590136472993688_">
+				<polygon id="triangle_00000153703348375074450750000017306657173059254198_" class="st3" points="1.1,0.3 0.7,0.3 0.7,0.5 				
+					"/>
+				<g transform="scale(-1,1)">
+					<polygon id="triangle_00000110467741891779318970000003877866912467278496_" class="st3" points="1.1,0.3 0.8,0.6 0.7,0.4 
+											"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(-72)">
+			<g id="cone_00000120521480553403452400000016713146791186918556_">
+				<polygon id="triangle_00000107570379963570726130000009254634142046013362_" class="st3" points="0.4,0.3 0.7,0.6 0.8,0.4 				
+					"/>
+				<g transform="scale(-1,1)">
+					<polygon id="triangle_00000163787069866342908720000011912299786530645890_" class="st3" points="0.4,0.3 0.7,0.3 0.7,0.5 
+											"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(144)">
+			<g id="cone_00000026862502670297069900000001129354984178226850_">
+				<polygon id="triangle_00000179611453839643016300000016789449131980807855_" class="st3" points="1,0.8 0.8,0.4 0.7,0.4 				"/>
+				<g transform="scale(-1,1)">
+					<polygon id="triangle_00000041976543663076455810000016774517681765177995_" class="st3" points="1,0.8 0.6,0.5 0.8,0.4 					
+						"/>
+				</g>
+			</g>
+		</g>
+		<g transform="rotate(-144)">
+			<g id="cone_00000040546333988274635200000001021369106942901658_">
+				<polygon id="triangle_00000017514720659318162340000010084111279949588866_" class="st3" points="0.5,0.8 0.8,0.5 0.7,0.4 				
+					"/>
+				<g transform="scale(-1,1)">
+					<polygon id="triangle_00000091701188763213786420000016382222912963013777_" class="st3" points="0.5,0.8 0.6,0.4 0.8,0.4 
+											"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
 </svg>

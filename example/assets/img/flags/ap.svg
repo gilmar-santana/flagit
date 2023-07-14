@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" baseProfile="tiny" id="Camada_1"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1500 1000"
-	 overflow="visible" xml:space="preserve">
-<path fill="#FFFFFF" d="M1.5,0.9h1427.2V1000H1.5V0.9z"/>
-<path fill-rule="evenodd" fill="#00994C" d="M1.5,0.9l377.2,356.8h1131.6v285.4H378.7L1.5,1000V0.9z"/>
-<path fill-rule="evenodd" fill="#002580" d="M1510.3,286.4H405.4L102.4,0.9h1407.9V286.4z"/>
-<path fill-rule="evenodd" fill="#F3E718" d="M102.4,1000l303-285.4h1104.9V1000H102.4z"/>
-<path fill-rule="evenodd" d="M1.5,0.9l377.2,356.8h1131.6v-24.3h-1121L37.8,0.9H1.5z M1.5,1000l377.2-356.8h1131.6v24.3h-1121
-	L37.8,1000H1.5z"/>
-<path fill-rule="evenodd" d="M68.1,0.9l328.3,309.7h1113.9v-24.3H407L104.5,0.9H68.1z M68.1,1000l328.3-309.7h1113.9v24.3H407
-	L104.5,1000H68.1z"/>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 504" style="enable-background:new 0 0 720 504;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#00994C;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#002580;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F3E718;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:7.1362;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#038301;stroke:#000000;stroke-width:7.1362;}
+</style>
+<path class="st0" d="M0-1h722.7V505H0V-1z"/>
+<path class="st1" d="M0-1l191,180.7h573v144.5H191L0,505V-1z"/>
+<path class="st2" d="M764,143.6H204.5L51.1-1H764V143.6z"/>
+<path class="st3" d="M51.1,505l153.4-144.5H764V505H51.1z"/>
+<path class="st4" d="M0-1l191,180.7h573v-12.3H196.4L18.4-1H0z M0,505l191-180.7h573v12.3H196.4L18.4,505H0z"/>
+<path class="st4" d="M33.7-1L200,155.9H764v-12.3H205.3L52.2-1H33.7z M33.7,505L200,348.1H764v12.3H205.3L52.2,505H33.7z"/>
 <g>
-	<path fill-rule="evenodd" fill="#FFFFFF" stroke="#000000" stroke-width="7.1362" d="M218.4,569l-8.6,17.1l25.7,34.3l25.7-34.3
-		l-8.6-17.1l51.4-51.4l17.1,8.6l34.3-25.7l-34.3-25.7l-17.1,8.6L252.7,432l8.6-17.1l-25.7-34.3l-25.7,34.3l8.6,17.1L167,483.3
-		l-17.1-8.6l-34.3,25.7l34.3,25.7l18-8.6L218.4,569z"/>
-	<path fill-rule="evenodd" fill="#038301" stroke="#000000" stroke-width="7.1362" d="M235.5,551.8l51.4-51.4l-51.4-51.4l-51.4,51.4
-		L235.5,551.8z"/>
-	<path fill-rule="evenodd" d="M167,500.5l-17.1-8.6l-11.4,8.6l11.4,8.6L167,500.5z M304.1,500.5l17.1-8.6l11.4,8.6l-11.4,8.6
-		L304.1,500.5z M235.5,432l8.6-17.1l-8.6-11.4l-8.6,11.4L235.5,432z M235.5,569l8.6,17.1l-8.6,11.4l-8.6-11.4L235.5,569z"/>
+	<path class="st5" d="M109.8,286.7l-4.4,8.7l13,17.4l13-17.4l-4.4-8.7l26-26l8.7,4.4l17.4-13l-17.4-13l-8.7,4.4l-26-26l4.4-8.7
+		l-13-17.4l-13,17.4l4.4,8.7l-26.1,26l-8.7-4.4l-17.4,13l17.4,13l9.1-4.4L109.8,286.7z"/>
+	<path class="st6" d="M118.5,278l26-26l-26-26l-26,26L118.5,278z"/>
+	<path class="st4" d="M83.8,252l-8.7-4.4l-5.8,4.4l5.8,4.4L83.8,252z M153.2,252l8.7-4.4l5.8,4.4l-5.8,4.4L153.2,252z M118.5,217.3
+		l4.4-8.7l-4.4-5.8l-4.4,5.8L118.5,217.3z M118.5,286.7l4.4,8.7l-4.4,5.8l-4.4-5.8L118.5,286.7z"/>
 </g>
 </svg>

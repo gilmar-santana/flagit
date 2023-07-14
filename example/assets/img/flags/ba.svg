@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1000" fill="#fff">
-<title>Bandeira da Bahia</title>
-<rect width="1500" height="1000"/>
-<path fill="#c8140a" d="M0 250h1500v250H500zm0 500h1500v250H0z"/>
-<rect fill="#0a14c8" width="500" height="500"/>
-<path d="M54,410L446,410 250,70 54,410z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.6.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 504" style="enable-background:new 0 0 720 504;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#C8140A;}
+	.st2{fill:#0A14C8;}
+</style>
+<rect y="3.1" class="st0" width="755.9" height="504"/>
+<path class="st1" d="M0,129.1h755.9v126H252L0,129.1z M0,381h755.9v126H0V381z"/>
+<rect y="3.1" class="st2" width="252" height="252"/>
+<path class="st0" d="M27.2,209.7h197.5L126,38.3L27.2,209.7z"/>
 </svg>
