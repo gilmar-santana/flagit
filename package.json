@@ -1,14 +1,14 @@
 {
     "name": "flagit",
     "title": "Flagit",
-    "description": "Flagit is a simple jQuery component that provides flag icons for Brazilian states select list.",
+    "description": "Flagit is a simple jQuery plugin that provides flag icons for Brazilian states in a select list.",
     "keywords": [
     "flags",
     "brazilian states",
     "custom select",
     "icon select",
     "estados brasileiros",
-    "custom select estados brasileiros com bandeiras"
+    "select estados brasileiros com bandeiras"
     ],
     "version": "1.0.0",
     "author": {
@@ -22,6 +22,7 @@
     }
     ],
     "dependencies": {
-    "jquery": ">=3.6.0"
+    "jquery": ">=3.6.0",
+    "bootstrap" ">=5.2.0"
     }
     }
