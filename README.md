@@ -45,8 +45,8 @@ $('.estados').flagit({
 });
 ```
 ## Required
-* jQuery >= 3
-* Bootstrap >= 5
+* jQuery >= 3.6.0
+* Bootstrap >= 5.2.0
 
 ## Credits
 This plugin uses the following open source frameworks
