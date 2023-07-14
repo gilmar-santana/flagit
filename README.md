@@ -21,7 +21,7 @@ Step 3: Call the function on the HTML element ```<select>``` by class or ID
 ```javascript
 $('.estados').flagit();
 ```
-It will render the default settings for the ```<select>```
+It will render the ```<select>``` with default settings
 
 
 Step 4: Pass options
